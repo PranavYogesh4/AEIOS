@@ -138,10 +138,6 @@ venv\Scripts\activate
 
 ### Step 3: Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Step 4: Configure Environment Variables
 
 Create a `.env` file in the project root and configure the API credentials required by the application.
